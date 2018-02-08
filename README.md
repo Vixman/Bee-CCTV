@@ -21,13 +21,14 @@ You can use it however you like as long as you retain this terms.
 If you appreciate our work you can donete our Crypto wallet:
 
 @Bitcoin:
-1ABi7jtLsgDYojqKT3wmsKQSZpWhoo8rxZ
+1LfNffamZbbWdmhDY4TTBhi3jno2pLKnw3
 @Ethereum:
-0x30B0B438ABc8aFCa59a3320cA43cAC4E88CFbf6C
+0x5bdbd8bf80adb7f5c0017be8e5f6c383d5a415d9
 @Litecoin:
-LXxtLLMuSTF7SCXYgBUdzrH7D12zqCW6rv
-@EOS:
-0x30B0B438ABc8aFCa59a3320cA43cAC4E88CFbf6C
+LX2JfwKa59NWJX1khCesMXMWi4YhLMo5UF
+@IOTA:
+STPSATPAGKHXUQIZPXDJKHEKWLBTMKNPKHEFQMKRVRZEYNTGCWHEYQBPMZ9MVYALAOTSPYMCFYRLVTXWYDTMQLPXKW
+
 
 
 
